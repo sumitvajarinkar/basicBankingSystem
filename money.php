@@ -34,8 +34,8 @@
                     <li class="nav-item py-3">
                         <a class="nav-link" aria-current="page" href="index.php"><strong>Home</strong></a>
                     </li>
-                    <li class="nav-item dropdown py-3 active">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="nav-item dropdown py-3">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Actions
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
