@@ -1,4 +1,4 @@
-# TSFBANK
+# TsfBank
 <h3>The Sparks Foundation Internship Project : Basic Banking System</h3>
 A Dynamic Web Application used to transfer money between multiple users (Project contains 10 dummy users).<br>
 Stack used -
