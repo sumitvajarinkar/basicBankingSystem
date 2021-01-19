@@ -1,8 +1,8 @@
 # TSFBANK
 <h3>The Sparks Foundation Internship Project : Basic Banking System</h3>
 A Dynamic Web Application used to transfer money between multiple users (Project contains 10 dummy users).<br><br>
-Stack used - <br>
-<h4>Front-end : HTML, CSS, Bootstrap &amp; Javascript</h4><br>
+Stack used -
+<h4>Front-end : HTML, CSS, Bootstrap &amp; Javascript</h4>
 <h4>Back-end : PHP</h4>
 <h4>Database : MySQL</h4>
 Database contains two Tables- Users Table &amp; Transaction Table <br>
